@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Navajis! 👋
 
 I'm a passionate data scientist and analytics enthusiast with a keen interest in deriving insights from data to solve real-world problems. Welcome to my GitHub profile!
 
