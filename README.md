@@ -25,7 +25,7 @@ I'm a passionate data scientist and analytics enthusiast with a keen interest in
 ## 📊 Projects:
 
 - [Project 1: POWERBI - Unicorn company data analysis](https://github.com/navajis07/Unicorn_company_data_analysis_dashboard_powerbi)
-- [Project 2: ML - IPL-win-probability-prediction-model](https://github.com/navajis07/IPL-win-probability-prediction-model)
+- [Project 2: ML - IPL win probability prediction model](https://github.com/navajis07/IPL-win-probability-prediction-model)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.datascienceportfol.io/navajis_portfolio)
