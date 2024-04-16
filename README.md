@@ -22,7 +22,7 @@ I'm a passionate data scientist and analytics enthusiast with a keen interest in
 - **Big Data Tools:** Apache Spark, Hadoop
 - **Database Management:** MySQL, PostgreSQL
 
-## 📊 Projects:
+## 📊 Top Projects:
 
 - [Project 1: POWERBI - Unicorn company data analysis](https://github.com/navajis07/Unicorn_company_data_analysis_dashboard_powerbi)
 - [Project 2: ML - IPL win probability prediction model](https://github.com/navajis07/IPL-win-probability-prediction-model)
