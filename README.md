@@ -10,12 +10,15 @@ I'm a passionate data scientist and analytics enthusiast with a keen interest in
 
 ## 🌱 What I'm Currently Learning:
 
-- Advanced statistical analysis techniques
-- Deep learning frameworks like TensorFlow and PyTorch
-- Big data technologies such as Apache Spark
+- Python programming for data analysis
+- Power BI for interactive data visualizations
+- SQL for database management and querying
+- Advanced Excel techniques for data manipulation
+- Statistical analysis for data interpretation
 
 ## 💼 Skills:
 
+- **BI Tools:** Powerbi,Tableau
 - **Programming:** Python, R, SQL
 - **Machine Learning:** Scikit-Learn, TensorFlow, Keras
 - **Data Analysis/Visualization:** Pandas, NumPy, Matplotlib, Seaborn
